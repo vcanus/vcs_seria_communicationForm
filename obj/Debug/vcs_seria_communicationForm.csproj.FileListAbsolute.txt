@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\vcs_seria_communicationForm\bin\Debug\vcs_seria_communicationForm.exe.config
+C:\Users\user\source\repos\vcs_seria_communicationForm\bin\Debug\vcs_seria_communicationForm.exe
+C:\Users\user\source\repos\vcs_seria_communicationForm\bin\Debug\vcs_seria_communicationForm.pdb
+C:\Users\user\source\repos\vcs_seria_communicationForm\obj\Debug\vcs_seria_communicationForm.csprojAssemblyReference.cache
+C:\Users\user\source\repos\vcs_seria_communicationForm\obj\Debug\vcs_seria_communicationForm.Form1.resources
+C:\Users\user\source\repos\vcs_seria_communicationForm\obj\Debug\vcs_seria_communicationForm.Properties.Resources.resources
+C:\Users\user\source\repos\vcs_seria_communicationForm\obj\Debug\vcs_seria_communicationForm.csproj.GenerateResource.cache
+C:\Users\user\source\repos\vcs_seria_communicationForm\obj\Debug\vcs_seria_communicationForm.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\vcs_seria_communicationForm\obj\Debug\vcs_seria_communicationForm.exe
+C:\Users\user\source\repos\vcs_seria_communicationForm\obj\Debug\vcs_seria_communicationForm.pdb
